@@ -15,13 +15,10 @@
 
 ## 安装
 
-本程序仅在windows环境下测试，mac不保证能运行（因为似乎涉及到了系统字体，字体比较容易出问题 :(
-
-1. `git clone https://github.com/THUMB1916/IDcard.git` 或 Download Zip
-2. `pip install pillow`
-> 注1：也会传到队里网盘，如果是从网盘里下载的就不用第1步了
-> 
-> 注2：不能使用`conda install pillow`，会报错。好在conda下也可以用pip :)
+0. 需要你会一丢丢python，且电脑是Windows环境（mac未经测试，或许会有问题，因为涉及到了系统字体，字体比较容易出问题 :(
+1. 在队里网盘下载整个项目文件夹 或者 Download Zip 或者 `git clone https://github.com/THUMB1916/IDcard.git` 
+2. 安装依赖库：`pip install pillow`
+> 注：如果你用conda，不能使用`conda install pillow`，会报错。好在conda下也可以用pip :)
 
 ## 使用方法
 1. 让队员们按照`姓名-性别-声部-院系-学号-入队年份`的命名方式提交 **竖版人像居中** 的类似证件照的照片。尺寸没有严格要求，307\*377或类似的纵横比即可。
