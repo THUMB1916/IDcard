@@ -40,7 +40,7 @@
 
 2. 检查收到的照片命名是否准确，整理好后统一放入`input`文件夹（允许多级目录）
     <div  align="center">
-    <img src="input\军x乐-x-xx声部-xx学院-20xxxxxxxx-20xx.png" width = 20% alt="军x乐-x-xx声部-xx学院-20xxxxxxxx-20xx.png"/>
+    <img src="input\军x乐-x-xx声部-xx学院-20xxxxxxxx-20xx.PNG" width = 20% alt="军x乐-x-xx声部-xx学院-20xxxxxxxx-20xx.png"/>
     </div>
     <center>input/军x乐-x-xx声部-xx学院-20xxxxxxxx-20xx.png</center>
 
