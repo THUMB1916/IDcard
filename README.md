@@ -41,8 +41,9 @@
     <div  align="center">
     <img src="input\军x乐-x-xx声部-xx学院-20xxxxxxxx-20xx.PNG" width = 20% alt="军x乐-x-xx声部-xx学院-20xxxxxxxx-20xx.png"/>
     </div>
-    <center>input/军x乐-x-xx声部-xx学院-20xxxxxxxx-20xx.png</center>
-
+    <div  align="center">
+    input/军x乐-x-xx声部-xx学院-20xxxxxxxx-20xx.png
+    </div>
 3. 直接运行代码：`python make_ID.py`
 
 4. 在`output`文件夹中收获队员证~
